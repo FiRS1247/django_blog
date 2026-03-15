@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Data Base files
+*.db
+*.sqlite3
 
 #Ignore vscode AI rules
 .github\instructions\codacy.instructions.md
